@@ -1,0 +1,45 @@
+for each student find their department 
+calculate that department avg GPA
+compare students GPA with that avg
+
+
+find department that have at least one student
+  
+
+
+imagine department table has d01 d02 d03 d04 and student marks table has d01 d02 d03
+check d01:is there any student marks where DEPARTMENT_ID= d01?
+yes, there is a student called Aarav exists=true so, d01 
+check d02:any student in d02
+yes, there is Rahul show d02 
+check d03:any student in d03
+yes, there is kavya show d03
+check do4:any student in d04
+
+
+
+
+ to create view
+ create view student marks view as 
+ 
+
+to show solo
+select * from student marks view where name='Rahul';
+
+
+ array index: integer number used to determine the position of array elements in a array.-->starts from 0. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
